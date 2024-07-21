@@ -23,6 +23,14 @@ def split_video(path, num):
 
 
 def generate_audio(clips, audio_path):
+
+    '''@article{Forsgren_Martiros_2022,
+      author = {Forsgren, Seth* and Martiros, Hayk*},
+      title = {{Riffusion - Stable diffusion for real-time music generation}},
+      url = {https://riffusion.com/about},
+      year = {2022}
+    }'''
+
     pass
 
 
@@ -42,10 +50,10 @@ left_col, right_col = st.columns([1, 1])
 with st.container():
 
     with left_col:
-        uploaded_video = st.file_uploader("###### Upload the video", type=["mp4", "mov", "avi", "mkv"])
-        clips_num = st.number_input("###### Number of clips to cut to", min_value=1, max_value=20, step=1)
-        clip_index = st.number_input("###### Number of clip to add the audio to", min_value=1, max_value=20, step=1)
-        columns_num = st.number_input("###### Number of columns for review", min_value=1, max_value=20, step=1)
+        uploaded_video = st.file_uploader("##### Upload the video", type=["mp4", "mov", "avi", "mkv"])
+        clips_num = st.number_input("##### Number of clips to cut to", min_value=1, max_value=20, step=1)
+        clip_index = st.number_input("##### Number of clip to add the audio to", min_value=1, max_value=20, step=1)
+        columns_num = st.number_input("##### Number of columns for review", min_value=1, max_value=20, step=1)
 
     with right_col:
         st.write(" ")
@@ -58,8 +66,14 @@ with st.container():
 
 with st.container():
     st.write(" ")
-    st.write("### Write any theme for audio generation")
-    prompt = st.text_input(label="___Write a prompt, for example: 'flowers song'___")
+    # st.write("### Write any theme for audio generation")
+
+    _, centre, _ = st.columns([1, 3, 1])
+    with centre:
+        st.write(" ")
+        st.write("### Write any theme for audio generation")
+        prompt = st.text_input(label="___Write a prompt, for example: 'flowers song'___")
+        st.write(" ")
 
 
 st.write("---")
