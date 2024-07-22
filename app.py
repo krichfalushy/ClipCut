@@ -2,10 +2,11 @@ import streamlit as st
 import tempfile
 import os
 import zipfile
+import requests
 
 os.environ["IMAGEIO_FFMPEG_EXE"] = r"/opt/homebrew/bin/ffmpeg"
 
-from moviepy.editor import VideoFileClip, ipython_display, concatenate_videoclips, AudioFileClip
+from moviepy.editor import VideoFileClip, AudioFileClip
 
 
 # Function to cut the video on slices
@@ -22,16 +23,11 @@ def split_video(path, num):
     return clips
 
 
-def generate_audio(clips, audio_path):
-
-    '''@article{Forsgren_Martiros_2022,
-      author = {Forsgren, Seth* and Martiros, Hayk*},
-      title = {{Riffusion - Stable diffusion for real-time music generation}},
-      url = {https://riffusion.com/about},
-      year = {2022}
-    }'''
-
-    pass
+# Adding generated audio to the clip
+def add_audio(clip, audio_file):
+    audio = AudioFileClip(audio_file)
+    new_clip = clip.set_audio(audio)
+    return new_clip
 
 
 # STYLE CODE
@@ -45,8 +41,9 @@ bla bla lorem ipsum la la
 ''')
 st.write("---")
 
-left_col, right_col = st.columns([1, 1])
 
+# 1 part of page
+left_col, right_col = st.columns([1, 1])
 with st.container():
 
     with left_col:
@@ -64,6 +61,7 @@ with st.container():
             container.video(uploaded_video)
 
 
+# 2 part of page
 with st.container():
     st.write(" ")
     # st.write("### Write any theme for audio generation")
@@ -73,6 +71,7 @@ with st.container():
         st.write(" ")
         st.write("### Write any theme for audio generation")
         prompt = st.text_input(label="___Write a prompt, for example: 'flowers song'___")
+        button = st.button("Start generation")
         st.write(" ")
 
 
@@ -81,8 +80,9 @@ st.write(" ")
 st.write("### Your video clips")
 
 
+# 3 part of page
 with st.container(height=500):
-    if uploaded_video and 1 <= clips_num and clip_index and columns_num <= 20 and prompt:
+    if button and uploaded_video and prompt:
         with tempfile.NamedTemporaryFile(suffix=".mp4", delete=False) as f:
             f.write(uploaded_video.read())
             temp_file = f.name
@@ -95,10 +95,14 @@ with st.container(height=500):
         clips = split_video(temp_file, clips_num)
         _, container, _ = st.columns([15, 80, 15])
 
+        # Generate audio for the clip_index video
+        url = r"http://127.0.0.1:3013/run_inference/"
+        response = requests.post
+
         # Creating temporary clip paths list
         temp_paths = []
         for i, clip in enumerate(clips):
-            temp_clip = os.path.join(tempfile.gettempdir(), f"clip_{i}.mp4")
+            temp_clip = os.path.join(tempfile.gettempdir(), f"clip_{i + 1}.mp4")
             clip.write_videofile(temp_clip, codec="libx264", audio_codec="aac")
             temp_paths.append(temp_clip)
 
