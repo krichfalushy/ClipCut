@@ -37,7 +37,13 @@ st.title(":orange[# Clip Cut]")
 st.write(" ")
 text = st.write(f'''
 #### Description
-bla bla lorem ipsum la la
+This is a Generative AI app \n
+___Here you can___ \n
+• Cut your videos into ___maximum 20 pieces___.\n
+• With a text prompt generate the audio to one of your cut clips.\n
+• Choose the index number of clip you want add audio to.\n
+• Chose the number of columns where you can review clips.\n
+• And then download zip archive and enjoy your life :D
 ''')
 st.write("---")
 
@@ -96,8 +102,10 @@ with st.container(height=500):
         _, container, _ = st.columns([15, 80, 15])
 
         # Generate audio for the clip_index video
-        url = r"http://127.0.0.1:3013/run_inference/"
-        response = requests.post
+        # url = r"http://127.0.0.1:3013/run_inference/"
+        # response = requests.post
+
+        audio = ""
 
         # Creating temporary clip paths list
         temp_paths = []
