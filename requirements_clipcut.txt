@@ -84,7 +84,6 @@ tornado==6.4.1
 tqdm==4.66.4
 transformers==4.42.4
 treetable==0.2.5
-triton==2.3.1
 typing_extensions==4.12.2
 tzdata==2024.1
 urllib3==2.2.2
