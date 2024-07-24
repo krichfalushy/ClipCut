@@ -4,6 +4,7 @@ import os
 import zipfile
 import requests
 
+
 os.environ["IMAGEIO_FFMPEG_EXE"] = r"/opt/homebrew/bin/ffmpeg"
 
 from moviepy.editor import VideoFileClip, AudioFileClip
@@ -102,10 +103,14 @@ with st.container(height=500):
         _, container, _ = st.columns([15, 80, 15])
 
         # Generate audio for the clip_index video
-        # url = r"http://127.0.0.1:3013/run_inference/"
-        # response = requests.post
+        from riffusion_hobby.riffusion.riffusion_pipeline import RiffusionPipeline
+        pipeline = RiffusionPipeline(prompt)
+        audio = tempfile.mktemp(suffix=".wav")
+        st.audio(audio)
 
-        audio = ""
+
+        # audio = generate_audio(prompt)
+        # st.audio(audio)
 
         # Creating temporary clip paths list
         temp_paths = []
