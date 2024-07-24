@@ -1,0 +1,1365 @@
+/home/asthan/SLOW/asthan/Documents/Projects/0900-Krichfalushy/ClipCut/.venv/lib64/python3.10/site-packages/streamlit/watcher/local_sources_watcher.py:210: UserWarning: Torchaudio's I/O functions now support par-call bakcend dispatch. Importing backend implementation directly is no longer guaranteed to work. Please use `backend` keyword with load/save/info function, instead of calling the udnerlying implementation directly.
+  lambda m: list(m.__path__._path),
+
+/home/asthan/SLOW/asthan/Documents/Projects/0900-Krichfalushy/ClipCut/.venv/lib64/python3.10/site-packages/streamlit/watcher/local_sources_watcher.py:210: UserWarning: Torchaudio's I/O functions now support par-call bakcend dispatch. Importing backend implementation directly is no longer guaranteed to work. Please use `backend` keyword with load/save/info function, instead of calling the udnerlying implementation directly.
+  lambda m: list(m.__path__._path),
+
+/home/asthan/SLOW/asthan/Documents/Projects/0900-Krichfalushy/ClipCut/.venv/lib64/python3.10/site-packages/streamlit/watcher/local_sources_watcher.py:210: UserWarning: Torchaudio's I/O functions now support par-call bakcend dispatch. Importing backend implementation directly is no longer guaranteed to work. Please use `backend` keyword with load/save/info function, instead of calling the udnerlying implementation directly.
+  lambda m: list(m.__path__._path),
+
+/home/asthan/SLOW/asthan/Documents/Projects/0900-Krichfalushy/ClipCut/app.py:41: UserWarning: WARNING: cuda is not available, using cpu instead.
+  
+
+/home/asthan/SLOW/asthan/Documents/Projects/0900-Krichfalushy/ClipCut/app.py:41: UserWarning: WARNING: cuda is not available, using cpu instead.
+  
+
+/home/asthan/SLOW/asthan/Documents/Projects/0900-Krichfalushy/ClipCut/.venv/lib64/python3.10/site-packages/huggingface_hub/file_download.py:1150: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+
+/home/asthan/SLOW/asthan/Documents/Projects/0900-Krichfalushy/ClipCut/.venv/lib64/python3.10/site-packages/huggingface_hub/file_download.py:1150: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+
+/home/asthan/SLOW/asthan/Documents/Projects/0900-Krichfalushy/ClipCut/.venv/lib64/python3.10/site-packages/huggingface_hub/file_download.py:991: UserWarning: Not enough free disk space to download the file. The expected file size is: 1216.06 MB. The target location /home/asthan/.cache/huggingface/hub/models--riffusion--riffusion-model-v1/blobs only has 912.40 MB free disk space.
+  warnings.warn(
+
+/home/asthan/SLOW/asthan/Documents/Projects/0900-Krichfalushy/ClipCut/.venv/lib64/python3.10/site-packages/huggingface_hub/file_download.py:991: UserWarning: Not enough free disk space to download the file. The expected file size is: 1216.06 MB. The target location /home/asthan/.cache/huggingface/hub/models--riffusion--riffusion-model-v1/blobs only has 912.40 MB free disk space.
+  warnings.warn(
+
+/home/asthan/SLOW/asthan/Documents/Projects/0900-Krichfalushy/ClipCut/.venv/lib64/python3.10/site-packages/huggingface_hub/file_download.py:991: UserWarning: Not enough free disk space to download the file. The expected file size is: 3438.37 MB. The target location /home/asthan/.cache/huggingface/hub/models--riffusion--riffusion-model-v1/blobs only has 911.84 MB free disk space.
+  warnings.warn(
+
+/home/asthan/SLOW/asthan/Documents/Projects/0900-Krichfalushy/ClipCut/.venv/lib64/python3.10/site-packages/huggingface_hub/file_download.py:991: UserWarning: Not enough free disk space to download the file. The expected file size is: 3438.37 MB. The target location /home/asthan/.cache/huggingface/hub/models--riffusion--riffusion-model-v1/blobs only has 911.84 MB free disk space.
+  warnings.warn(
+
+/home/asthan/SLOW/asthan/Documents/Projects/0900-Krichfalushy/ClipCut/app.py:41: UserWarning: WARNING: cuda is not available, using cpu instead.
+  pipeline = RiffusionPipeline.load_checkpoint(
+
+/home/asthan/SLOW/asthan/Documents/Projects/0900-Krichfalushy/ClipCut/app.py:41: UserWarning: WARNING: cuda is not available, using cpu instead.
+  pipeline = RiffusionPipeline.load_checkpoint(
+
+/home/asthan/SLOW/asthan/Documents/Projects/0900-Krichfalushy/ClipCut/.venv/lib64/python3.10/site-packages/huggingface_hub/file_download.py:991: UserWarning: Not enough free disk space to download the file. The expected file size is: 3438.37 MB. The target location /home/asthan/.cache/huggingface/hub/models--riffusion--riffusion-model-v1/blobs only has 2521.04 MB free disk space.
+  warnings.warn(
+
+/home/asthan/SLOW/asthan/Documents/Projects/0900-Krichfalushy/ClipCut/.venv/lib64/python3.10/site-packages/huggingface_hub/file_download.py:991: UserWarning: Not enough free disk space to download the file. The expected file size is: 3438.37 MB. The target location /home/asthan/.cache/huggingface/hub/models--riffusion--riffusion-model-v1/blobs only has 2521.04 MB free disk space.
+  warnings.warn(
+
+/home/asthan/SLOW/asthan/Documents/Projects/0900-Krichfalushy/ClipCut/.venv/lib64/python3.10/site-packages/streamlit/watcher/local_sources_watcher.py:210: UserWarning: Torchaudio's I/O functions now support par-call bakcend dispatch. Importing backend implementation directly is no longer guaranteed to work. Please use `backend` keyword with load/save/info function, instead of calling the udnerlying implementation directly.
+  lambda m: list(m.__path__._path),
+
+/home/asthan/SLOW/asthan/Documents/Projects/0900-Krichfalushy/ClipCut/app.py:41: UserWarning: WARNING: cuda is not available, using cpu instead.
+  pipeline = RiffusionPipeline.load_checkpoint(
+
+/home/asthan/SLOW/asthan/Documents/Projects/0900-Krichfalushy/ClipCut/.venv/lib64/python3.10/site-packages/huggingface_hub/file_download.py:1150: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+
+/home/asthan/SLOW/asthan/Documents/Projects/0900-Krichfalushy/ClipCut/app.py:41: UserWarning: WARNING: cuda is not available, using cpu instead.
+  pipeline = RiffusionPipeline.load_checkpoint(
+
+/home/asthan/SLOW/asthan/Documents/Projects/0900-Krichfalushy/ClipCut/app.py:41: UserWarning: WARNING: cuda is not available, using cpu instead.
+  pipeline = RiffusionPipeline.load_checkpoint(
+
+/home/asthan/SLOW/asthan/Documents/Projects/0900-Krichfalushy/ClipCut/.venv/lib64/python3.10/site-packages/streamlit/watcher/local_sources_watcher.py:210: UserWarning: Torchaudio's I/O functions now support par-call bakcend dispatch. Importing backend implementation directly is no longer guaranteed to work. Please use `backend` keyword with load/save/info function, instead of calling the udnerlying implementation directly.
+  lambda m: list(m.__path__._path),
+
+/home/asthan/SLOW/asthan/Documents/Projects/0900-Krichfalushy/ClipCut/app.py:41: UserWarning: WARNING: cuda is not available, using cpu instead.
+  pipeline = RiffusionPipeline.load_checkpoint(
+
+/home/asthan/SLOW/asthan/Documents/Projects/0900-Krichfalushy/ClipCut/.venv/lib64/python3.10/site-packages/huggingface_hub/file_download.py:1150: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+
+/home/asthan/SLOW/asthan/Documents/Projects/0900-Krichfalushy/ClipCut/app.py:41: UserWarning: WARNING: cuda is not available, using cpu instead.
+  pipeline = RiffusionPipeline.load_checkpoint(
+
+/home/asthan/SLOW/asthan/Documents/Projects/0900-Krichfalushy/ClipCut/.venv/lib64/python3.10/site-packages/huggingface_hub/file_download.py:1150: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+
+/home/asthan/SLOW/asthan/Documents/Projects/0900-Krichfalushy/ClipCut/.venv/lib64/python3.10/site-packages/streamlit/watcher/local_sources_watcher.py:210: UserWarning: Torchaudio's I/O functions now support par-call bakcend dispatch. Importing backend implementation directly is no longer guaranteed to work. Please use `backend` keyword with load/save/info function, instead of calling the udnerlying implementation directly.
+  lambda m: list(m.__path__._path),
+
+/home/asthan/SLOW/asthan/Documents/Projects/0900-Krichfalushy/ClipCut/.venv/lib64/python3.10/site-packages/streamlit/watcher/local_sources_watcher.py:210: UserWarning: Torchaudio's I/O functions now support par-call bakcend dispatch. Importing backend implementation directly is no longer guaranteed to work. Please use `backend` keyword with load/save/info function, instead of calling the udnerlying implementation directly.
+  lambda m: list(m.__path__._path),
+
+/home/asthan/SLOW/asthan/Documents/Projects/0900-Krichfalushy/ClipCut/.venv/lib64/python3.10/site-packages/huggingface_hub/file_download.py:1150: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+
+/home/asthan/SLOW/asthan/Documents/Projects/0900-Krichfalushy/ClipCut/.venv/lib64/python3.10/site-packages/streamlit/watcher/local_sources_watcher.py:210: UserWarning: Torchaudio's I/O functions now support par-call bakcend dispatch. Importing backend implementation directly is no longer guaranteed to work. Please use `backend` keyword with load/save/info function, instead of calling the udnerlying implementation directly.
+  lambda m: list(m.__path__._path),
+
+/home/asthan/SLOW/asthan/Documents/Projects/0900-Krichfalushy/ClipCut/.venv/lib64/python3.10/site-packages/streamlit/watcher/local_sources_watcher.py:210: UserWarning: Torchaudio's I/O functions now support par-call bakcend dispatch. Importing backend implementation directly is no longer guaranteed to work. Please use `backend` keyword with load/save/info function, instead of calling the udnerlying implementation directly.
+  lambda m: list(m.__path__._path),
+
+/home/asthan/SLOW/asthan/Documents/Projects/0900-Krichfalushy/ClipCut/.venv/lib64/python3.10/site-packages/huggingface_hub/file_download.py:1150: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+
+/home/asthan/SLOW/asthan/Documents/Projects/0900-Krichfalushy/ClipCut/.venv/lib64/python3.10/site-packages/huggingface_hub/file_download.py:1150: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+
+/home/asthan/SLOW/asthan/Documents/Projects/0900-Krichfalushy/ClipCut/.venv/lib64/python3.10/site-packages/huggingface_hub/file_download.py:1150: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+
+/home/asthan/SLOW/asthan/Documents/Projects/0900-Krichfalushy/ClipCut/.venv/lib64/python3.10/site-packages/huggingface_hub/file_download.py:1150: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+
+/home/asthan/SLOW/asthan/Documents/Projects/0900-Krichfalushy/ClipCut/.venv/lib64/python3.10/site-packages/huggingface_hub/file_download.py:1150: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+
+/home/asthan/SLOW/asthan/Documents/Projects/0900-Krichfalushy/ClipCut/.venv/lib64/python3.10/site-packages/huggingface_hub/file_download.py:1150: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+
+/home/asthan/SLOW/asthan/Documents/Projects/0900-Krichfalushy/ClipCut/.venv/lib64/python3.10/site-packages/streamlit/watcher/local_sources_watcher.py:210: UserWarning: Torchaudio's I/O functions now support par-call bakcend dispatch. Importing backend implementation directly is no longer guaranteed to work. Please use `backend` keyword with load/save/info function, instead of calling the udnerlying implementation directly.
+  lambda m: list(m.__path__._path),
+
+/home/asthan/SLOW/asthan/Documents/Projects/0900-Krichfalushy/ClipCut/.venv/lib64/python3.10/site-packages/streamlit/watcher/local_sources_watcher.py:210: UserWarning: Torchaudio's I/O functions now support par-call bakcend dispatch. Importing backend implementation directly is no longer guaranteed to work. Please use `backend` keyword with load/save/info function, instead of calling the udnerlying implementation directly.
+  lambda m: list(m.__path__._path),
+
+/home/asthan/SLOW/asthan/Documents/Projects/0900-Krichfalushy/ClipCut/.venv/lib64/python3.10/site-packages/streamlit/watcher/local_sources_watcher.py:210: UserWarning: Torchaudio's I/O functions now support par-call bakcend dispatch. Importing backend implementation directly is no longer guaranteed to work. Please use `backend` keyword with load/save/info function, instead of calling the udnerlying implementation directly.
+  lambda m: list(m.__path__._path),
+
+/home/asthan/SLOW/asthan/Documents/Projects/0900-Krichfalushy/ClipCut/.venv/lib64/python3.10/site-packages/streamlit/watcher/local_sources_watcher.py:210: UserWarning: Torchaudio's I/O functions now support par-call bakcend dispatch. Importing backend implementation directly is no longer guaranteed to work. Please use `backend` keyword with load/save/info function, instead of calling the udnerlying implementation directly.
+  lambda m: list(m.__path__._path),
+
+/home/asthan/SLOW/asthan/Documents/Projects/0900-Krichfalushy/ClipCut/.venv/lib64/python3.10/site-packages/streamlit/watcher/local_sources_watcher.py:210: UserWarning: Torchaudio's I/O functions now support par-call bakcend dispatch. Importing backend implementation directly is no longer guaranteed to work. Please use `backend` keyword with load/save/info function, instead of calling the udnerlying implementation directly.
+  lambda m: list(m.__path__._path),
+
+/home/asthan/SLOW/asthan/Documents/Projects/0900-Krichfalushy/ClipCut/.venv/lib64/python3.10/site-packages/streamlit/watcher/local_sources_watcher.py:210: UserWarning: Torchaudio's I/O functions now support par-call bakcend dispatch. Importing backend implementation directly is no longer guaranteed to work. Please use `backend` keyword with load/save/info function, instead of calling the udnerlying implementation directly.
+  lambda m: list(m.__path__._path),
+
+/home/asthan/SLOW/asthan/Documents/Projects/0900-Krichfalushy/ClipCut/.venv/lib64/python3.10/site-packages/huggingface_hub/file_download.py:1150: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+
+/home/asthan/SLOW/asthan/Documents/Projects/0900-Krichfalushy/ClipCut/.venv/lib64/python3.10/site-packages/huggingface_hub/file_download.py:1150: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+
+/home/asthan/SLOW/asthan/Documents/Projects/0900-Krichfalushy/ClipCut/.venv/lib64/python3.10/site-packages/huggingface_hub/file_download.py:1150: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+
+/home/asthan/SLOW/asthan/Documents/Projects/0900-Krichfalushy/ClipCut/.venv/lib64/python3.10/site-packages/huggingface_hub/file_download.py:1150: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+
+/home/asthan/SLOW/asthan/Documents/Projects/0900-Krichfalushy/ClipCut/.venv/lib64/python3.10/site-packages/huggingface_hub/file_download.py:1150: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+
+/home/asthan/SLOW/asthan/Documents/Projects/0900-Krichfalushy/ClipCut/.venv/lib64/python3.10/site-packages/huggingface_hub/file_download.py:1150: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+
+/home/asthan/SLOW/asthan/Documents/Projects/0900-Krichfalushy/ClipCut/.venv/lib64/python3.10/site-packages/streamlit/watcher/local_sources_watcher.py:210: UserWarning: Torchaudio's I/O functions now support par-call bakcend dispatch. Importing backend implementation directly is no longer guaranteed to work. Please use `backend` keyword with load/save/info function, instead of calling the udnerlying implementation directly.
+  lambda m: list(m.__path__._path),
+
+/home/asthan/SLOW/asthan/Documents/Projects/0900-Krichfalushy/ClipCut/.venv/lib64/python3.10/site-packages/huggingface_hub/file_download.py:1150: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+
+/home/asthan/SLOW/asthan/Documents/Projects/0900-Krichfalushy/ClipCut/.venv/lib64/python3.10/site-packages/streamlit/watcher/local_sources_watcher.py:210: UserWarning: Torchaudio's I/O functions now support par-call bakcend dispatch. Importing backend implementation directly is no longer guaranteed to work. Please use `backend` keyword with load/save/info function, instead of calling the udnerlying implementation directly.
+  lambda m: list(m.__path__._path),
+
+/home/asthan/SLOW/asthan/Documents/Projects/0900-Krichfalushy/ClipCut/.venv/lib64/python3.10/site-packages/huggingface_hub/file_download.py:1150: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+
+/home/asthan/SLOW/asthan/Documents/Projects/0900-Krichfalushy/ClipCut/.venv/lib64/python3.10/site-packages/streamlit/watcher/local_sources_watcher.py:210: UserWarning: Torchaudio's I/O functions now support par-call bakcend dispatch. Importing backend implementation directly is no longer guaranteed to work. Please use `backend` keyword with load/save/info function, instead of calling the udnerlying implementation directly.
+  lambda m: list(m.__path__._path),
+
+/home/asthan/SLOW/asthan/Documents/Projects/0900-Krichfalushy/ClipCut/.venv/lib64/python3.10/site-packages/streamlit/watcher/local_sources_watcher.py:210: UserWarning: Torchaudio's I/O functions now support par-call bakcend dispatch. Importing backend implementation directly is no longer guaranteed to work. Please use `backend` keyword with load/save/info function, instead of calling the udnerlying implementation directly.
+  lambda m: list(m.__path__._path),
+
+/home/asthan/SLOW/asthan/Documents/Projects/0900-Krichfalushy/ClipCut/.venv/lib64/python3.10/site-packages/huggingface_hub/file_download.py:1150: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+
+/home/asthan/SLOW/asthan/Documents/Projects/0900-Krichfalushy/ClipCut/.venv/lib64/python3.10/site-packages/huggingface_hub/file_download.py:1150: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+
+/home/asthan/SLOW/asthan/Documents/Projects/0900-Krichfalushy/ClipCut/.venv/lib64/python3.10/site-packages/streamlit/watcher/local_sources_watcher.py:210: UserWarning: Torchaudio's I/O functions now support par-call bakcend dispatch. Importing backend implementation directly is no longer guaranteed to work. Please use `backend` keyword with load/save/info function, instead of calling the udnerlying implementation directly.
+  lambda m: list(m.__path__._path),
+
+/home/asthan/SLOW/asthan/Documents/Projects/0900-Krichfalushy/ClipCut/.venv/lib64/python3.10/site-packages/huggingface_hub/file_download.py:1150: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+
+/home/asthan/SLOW/asthan/Documents/Projects/0900-Krichfalushy/ClipCut/.venv/lib64/python3.10/site-packages/streamlit/watcher/local_sources_watcher.py:210: UserWarning: Torchaudio's I/O functions now support par-call bakcend dispatch. Importing backend implementation directly is no longer guaranteed to work. Please use `backend` keyword with load/save/info function, instead of calling the udnerlying implementation directly.
+  lambda m: list(m.__path__._path),
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/riffusion_hobby/venv/lib/python3.10/site-packages/streamlit/watcher/local_sources_watcher.py:210: UserWarning: Torchaudio's I/O functions now support par-call bakcend dispatch. Importing backend implementation directly is no longer guaranteed to work. Please use `backend` keyword with load/save/info function, instead of calling the udnerlying implementation directly.
+  lambda m: list(m.__path__._path),
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/riffusion_hobby/venv/lib/python3.10/site-packages/streamlit/watcher/local_sources_watcher.py:210: UserWarning: Torchaudio's I/O functions now support par-call bakcend dispatch. Importing backend implementation directly is no longer guaranteed to work. Please use `backend` keyword with load/save/info function, instead of calling the udnerlying implementation directly.
+  lambda m: list(m.__path__._path),
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/streamlit/watcher/local_sources_watcher.py:210: UserWarning: Torchaudio's I/O functions now support par-call bakcend dispatch. Importing backend implementation directly is no longer guaranteed to work. Please use `backend` keyword with load/save/info function, instead of calling the udnerlying implementation directly.
+  lambda m: list(m.__path__._path),
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/huggingface_hub/file_download.py:1150: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/streamlit/watcher/local_sources_watcher.py:210: UserWarning: Torchaudio's I/O functions now support par-call bakcend dispatch. Importing backend implementation directly is no longer guaranteed to work. Please use `backend` keyword with load/save/info function, instead of calling the udnerlying implementation directly.
+  lambda m: list(m.__path__._path),
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/huggingface_hub/file_download.py:1150: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/huggingface_hub/file_download.py:1150: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/streamlit/watcher/local_sources_watcher.py:210: UserWarning: Torchaudio's I/O functions now support par-call bakcend dispatch. Importing backend implementation directly is no longer guaranteed to work. Please use `backend` keyword with load/save/info function, instead of calling the udnerlying implementation directly.
+  lambda m: list(m.__path__._path),
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/huggingface_hub/file_download.py:1150: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/streamlit/watcher/local_sources_watcher.py:210: UserWarning: Torchaudio's I/O functions now support par-call bakcend dispatch. Importing backend implementation directly is no longer guaranteed to work. Please use `backend` keyword with load/save/info function, instead of calling the udnerlying implementation directly.
+  lambda m: list(m.__path__._path),
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/huggingface_hub/file_download.py:1150: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/huggingface_hub/file_download.py:1150: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/huggingface_hub/file_download.py:1150: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/huggingface_hub/file_download.py:1150: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/huggingface_hub/file_download.py:1150: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/streamlit/watcher/local_sources_watcher.py:210: UserWarning: Torchaudio's I/O functions now support par-call bakcend dispatch. Importing backend implementation directly is no longer guaranteed to work. Please use `backend` keyword with load/save/info function, instead of calling the udnerlying implementation directly.
+  lambda m: list(m.__path__._path),
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/streamlit/watcher/local_sources_watcher.py:210: UserWarning: Torchaudio's I/O functions now support par-call bakcend dispatch. Importing backend implementation directly is no longer guaranteed to work. Please use `backend` keyword with load/save/info function, instead of calling the udnerlying implementation directly.
+  lambda m: list(m.__path__._path),
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/streamlit/watcher/local_sources_watcher.py:210: UserWarning: Torchaudio's I/O functions now support par-call bakcend dispatch. Importing backend implementation directly is no longer guaranteed to work. Please use `backend` keyword with load/save/info function, instead of calling the udnerlying implementation directly.
+  lambda m: list(m.__path__._path),
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/streamlit/watcher/local_sources_watcher.py:210: UserWarning: Torchaudio's I/O functions now support par-call bakcend dispatch. Importing backend implementation directly is no longer guaranteed to work. Please use `backend` keyword with load/save/info function, instead of calling the udnerlying implementation directly.
+  lambda m: list(m.__path__._path),
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/streamlit/watcher/local_sources_watcher.py:210: UserWarning: Torchaudio's I/O functions now support par-call bakcend dispatch. Importing backend implementation directly is no longer guaranteed to work. Please use `backend` keyword with load/save/info function, instead of calling the udnerlying implementation directly.
+  lambda m: list(m.__path__._path),
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/huggingface_hub/file_download.py:1150: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/huggingface_hub/file_download.py:1150: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/huggingface_hub/file_download.py:1150: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/huggingface_hub/file_download.py:1150: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/huggingface_hub/file_download.py:1150: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/huggingface_hub/file_download.py:1150: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/moviepy/video/io/ffmpeg_reader.py:123: UserWarning: Warning: in file /var/folders/np/737_ndbs7h91d35cp1j2m1qm0000gn/T/clip_3.mp4, 691200 bytes wanted but 0 bytes read,at frame 1603/1604, at time 53.49/53.49 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/moviepy/video/io/ffmpeg_reader.py:123: UserWarning: Warning: in file /var/folders/np/737_ndbs7h91d35cp1j2m1qm0000gn/T/clip_3.mp4, 691200 bytes wanted but 0 bytes read,at frame 1603/1604, at time 53.49/53.49 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/moviepy/video/io/ffmpeg_reader.py:123: UserWarning: Warning: in file /var/folders/np/737_ndbs7h91d35cp1j2m1qm0000gn/T/clip_3.mp4, 691200 bytes wanted but 0 bytes read,at frame 1603/1604, at time 53.49/53.49 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/moviepy/video/io/ffmpeg_reader.py:123: UserWarning: Warning: in file /var/folders/np/737_ndbs7h91d35cp1j2m1qm0000gn/T/clip_3.mp4, 691200 bytes wanted but 0 bytes read,at frame 1603/1604, at time 53.49/53.49 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/moviepy/video/io/ffmpeg_reader.py:123: UserWarning: Warning: in file /var/folders/np/737_ndbs7h91d35cp1j2m1qm0000gn/T/clip_3.mp4, 691200 bytes wanted but 0 bytes read,at frame 1603/1604, at time 53.49/53.49 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/moviepy/video/io/ffmpeg_reader.py:123: UserWarning: Warning: in file /var/folders/np/737_ndbs7h91d35cp1j2m1qm0000gn/T/clip_3.mp4, 691200 bytes wanted but 0 bytes read,at frame 1603/1604, at time 53.49/53.49 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/moviepy/video/io/ffmpeg_reader.py:123: UserWarning: Warning: in file /var/folders/np/737_ndbs7h91d35cp1j2m1qm0000gn/T/clip_3.mp4, 691200 bytes wanted but 0 bytes read,at frame 1603/1604, at time 53.49/53.49 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/moviepy/video/io/ffmpeg_reader.py:123: UserWarning: Warning: in file /var/folders/np/737_ndbs7h91d35cp1j2m1qm0000gn/T/clip_3.mp4, 691200 bytes wanted but 0 bytes read,at frame 1603/1604, at time 53.49/53.49 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/moviepy/video/io/ffmpeg_reader.py:123: UserWarning: Warning: in file /var/folders/np/737_ndbs7h91d35cp1j2m1qm0000gn/T/clip_3.mp4, 691200 bytes wanted but 0 bytes read,at frame 1603/1604, at time 53.49/53.49 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/moviepy/video/io/ffmpeg_reader.py:123: UserWarning: Warning: in file /var/folders/np/737_ndbs7h91d35cp1j2m1qm0000gn/T/clip_3.mp4, 691200 bytes wanted but 0 bytes read,at frame 1603/1604, at time 53.49/53.49 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/moviepy/video/io/ffmpeg_reader.py:123: UserWarning: Warning: in file /var/folders/np/737_ndbs7h91d35cp1j2m1qm0000gn/T/clip_3.mp4, 691200 bytes wanted but 0 bytes read,at frame 1603/1604, at time 53.49/53.49 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/moviepy/video/io/ffmpeg_reader.py:123: UserWarning: Warning: in file /var/folders/np/737_ndbs7h91d35cp1j2m1qm0000gn/T/clip_3.mp4, 691200 bytes wanted but 0 bytes read,at frame 1603/1604, at time 53.49/53.49 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/moviepy/video/io/ffmpeg_reader.py:123: UserWarning: Warning: in file /var/folders/np/737_ndbs7h91d35cp1j2m1qm0000gn/T/clip_3.mp4, 691200 bytes wanted but 0 bytes read,at frame 1603/1604, at time 53.49/53.49 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/moviepy/video/io/ffmpeg_reader.py:123: UserWarning: Warning: in file /var/folders/np/737_ndbs7h91d35cp1j2m1qm0000gn/T/clip_3.mp4, 691200 bytes wanted but 0 bytes read,at frame 1603/1604, at time 53.49/53.49 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/moviepy/video/io/ffmpeg_reader.py:123: UserWarning: Warning: in file /var/folders/np/737_ndbs7h91d35cp1j2m1qm0000gn/T/clip_3.mp4, 691200 bytes wanted but 0 bytes read,at frame 1603/1604, at time 53.49/53.49 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/moviepy/video/io/ffmpeg_reader.py:123: UserWarning: Warning: in file /var/folders/np/737_ndbs7h91d35cp1j2m1qm0000gn/T/clip_3.mp4, 691200 bytes wanted but 0 bytes read,at frame 1603/1604, at time 53.49/53.49 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/moviepy/video/io/ffmpeg_reader.py:123: UserWarning: Warning: in file /var/folders/np/737_ndbs7h91d35cp1j2m1qm0000gn/T/clip_3.mp4, 691200 bytes wanted but 0 bytes read,at frame 1603/1604, at time 53.49/53.49 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/moviepy/video/io/ffmpeg_reader.py:123: UserWarning: Warning: in file /var/folders/np/737_ndbs7h91d35cp1j2m1qm0000gn/T/clip_3.mp4, 691200 bytes wanted but 0 bytes read,at frame 1603/1604, at time 53.49/53.49 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/moviepy/video/io/ffmpeg_reader.py:123: UserWarning: Warning: in file /var/folders/np/737_ndbs7h91d35cp1j2m1qm0000gn/T/clip_3.mp4, 691200 bytes wanted but 0 bytes read,at frame 1603/1604, at time 53.49/53.49 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/streamlit/watcher/local_sources_watcher.py:210: UserWarning: Torchaudio's I/O functions now support par-call bakcend dispatch. Importing backend implementation directly is no longer guaranteed to work. Please use `backend` keyword with load/save/info function, instead of calling the udnerlying implementation directly.
+  lambda m: list(m.__path__._path),
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/streamlit/watcher/local_sources_watcher.py:210: UserWarning: Torchaudio's I/O functions now support par-call bakcend dispatch. Importing backend implementation directly is no longer guaranteed to work. Please use `backend` keyword with load/save/info function, instead of calling the udnerlying implementation directly.
+  lambda m: list(m.__path__._path),
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/streamlit/watcher/local_sources_watcher.py:210: UserWarning: Torchaudio's I/O functions now support par-call bakcend dispatch. Importing backend implementation directly is no longer guaranteed to work. Please use `backend` keyword with load/save/info function, instead of calling the udnerlying implementation directly.
+  lambda m: list(m.__path__._path),
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/streamlit/watcher/local_sources_watcher.py:210: UserWarning: Torchaudio's I/O functions now support par-call bakcend dispatch. Importing backend implementation directly is no longer guaranteed to work. Please use `backend` keyword with load/save/info function, instead of calling the udnerlying implementation directly.
+  lambda m: list(m.__path__._path),
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/streamlit/watcher/local_sources_watcher.py:210: UserWarning: Torchaudio's I/O functions now support par-call bakcend dispatch. Importing backend implementation directly is no longer guaranteed to work. Please use `backend` keyword with load/save/info function, instead of calling the udnerlying implementation directly.
+  lambda m: list(m.__path__._path),
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/streamlit/watcher/local_sources_watcher.py:210: UserWarning: Torchaudio's I/O functions now support par-call bakcend dispatch. Importing backend implementation directly is no longer guaranteed to work. Please use `backend` keyword with load/save/info function, instead of calling the udnerlying implementation directly.
+  lambda m: list(m.__path__._path),
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/streamlit/watcher/local_sources_watcher.py:210: UserWarning: Torchaudio's I/O functions now support par-call bakcend dispatch. Importing backend implementation directly is no longer guaranteed to work. Please use `backend` keyword with load/save/info function, instead of calling the udnerlying implementation directly.
+  lambda m: list(m.__path__._path),
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/streamlit/watcher/local_sources_watcher.py:210: UserWarning: Torchaudio's I/O functions now support par-call bakcend dispatch. Importing backend implementation directly is no longer guaranteed to work. Please use `backend` keyword with load/save/info function, instead of calling the udnerlying implementation directly.
+  lambda m: list(m.__path__._path),
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/streamlit/watcher/local_sources_watcher.py:210: UserWarning: Torchaudio's I/O functions now support par-call bakcend dispatch. Importing backend implementation directly is no longer guaranteed to work. Please use `backend` keyword with load/save/info function, instead of calling the udnerlying implementation directly.
+  lambda m: list(m.__path__._path),
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/streamlit/watcher/local_sources_watcher.py:210: UserWarning: Torchaudio's I/O functions now support par-call bakcend dispatch. Importing backend implementation directly is no longer guaranteed to work. Please use `backend` keyword with load/save/info function, instead of calling the udnerlying implementation directly.
+  lambda m: list(m.__path__._path),
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/streamlit/watcher/local_sources_watcher.py:210: UserWarning: Torchaudio's I/O functions now support par-call bakcend dispatch. Importing backend implementation directly is no longer guaranteed to work. Please use `backend` keyword with load/save/info function, instead of calling the udnerlying implementation directly.
+  lambda m: list(m.__path__._path),
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/streamlit/watcher/local_sources_watcher.py:210: UserWarning: Torchaudio's I/O functions now support par-call bakcend dispatch. Importing backend implementation directly is no longer guaranteed to work. Please use `backend` keyword with load/save/info function, instead of calling the udnerlying implementation directly.
+  lambda m: list(m.__path__._path),
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/streamlit/watcher/local_sources_watcher.py:210: UserWarning: Torchaudio's I/O functions now support par-call bakcend dispatch. Importing backend implementation directly is no longer guaranteed to work. Please use `backend` keyword with load/save/info function, instead of calling the udnerlying implementation directly.
+  lambda m: list(m.__path__._path),
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/streamlit/watcher/local_sources_watcher.py:210: UserWarning: Torchaudio's I/O functions now support par-call bakcend dispatch. Importing backend implementation directly is no longer guaranteed to work. Please use `backend` keyword with load/save/info function, instead of calling the udnerlying implementation directly.
+  lambda m: list(m.__path__._path),
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/streamlit/watcher/local_sources_watcher.py:210: UserWarning: Torchaudio's I/O functions now support par-call bakcend dispatch. Importing backend implementation directly is no longer guaranteed to work. Please use `backend` keyword with load/save/info function, instead of calling the udnerlying implementation directly.
+  lambda m: list(m.__path__._path),
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/streamlit/watcher/local_sources_watcher.py:210: UserWarning: Torchaudio's I/O functions now support par-call bakcend dispatch. Importing backend implementation directly is no longer guaranteed to work. Please use `backend` keyword with load/save/info function, instead of calling the udnerlying implementation directly.
+  lambda m: list(m.__path__._path),
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/streamlit/watcher/local_sources_watcher.py:210: UserWarning: Torchaudio's I/O functions now support par-call bakcend dispatch. Importing backend implementation directly is no longer guaranteed to work. Please use `backend` keyword with load/save/info function, instead of calling the udnerlying implementation directly.
+  lambda m: list(m.__path__._path),
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/streamlit/watcher/local_sources_watcher.py:210: UserWarning: Torchaudio's I/O functions now support par-call bakcend dispatch. Importing backend implementation directly is no longer guaranteed to work. Please use `backend` keyword with load/save/info function, instead of calling the udnerlying implementation directly.
+  lambda m: list(m.__path__._path),
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/streamlit/watcher/local_sources_watcher.py:210: UserWarning: Torchaudio's I/O functions now support par-call bakcend dispatch. Importing backend implementation directly is no longer guaranteed to work. Please use `backend` keyword with load/save/info function, instead of calling the udnerlying implementation directly.
+  lambda m: list(m.__path__._path),
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/streamlit/watcher/local_sources_watcher.py:210: UserWarning: Torchaudio's I/O functions now support par-call bakcend dispatch. Importing backend implementation directly is no longer guaranteed to work. Please use `backend` keyword with load/save/info function, instead of calling the udnerlying implementation directly.
+  lambda m: list(m.__path__._path),
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/streamlit/watcher/local_sources_watcher.py:210: UserWarning: Torchaudio's I/O functions now support par-call bakcend dispatch. Importing backend implementation directly is no longer guaranteed to work. Please use `backend` keyword with load/save/info function, instead of calling the udnerlying implementation directly.
+  lambda m: list(m.__path__._path),
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/moviepy/video/io/ffmpeg_reader.py:123: UserWarning: Warning: in file /var/folders/np/737_ndbs7h91d35cp1j2m1qm0000gn/T/clip_2.mp4, 691200 bytes wanted but 0 bytes read,at frame 1603/1604, at time 53.49/53.49 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/moviepy/video/io/ffmpeg_reader.py:123: UserWarning: Warning: in file /var/folders/np/737_ndbs7h91d35cp1j2m1qm0000gn/T/clip_2.mp4, 691200 bytes wanted but 0 bytes read,at frame 1603/1604, at time 53.49/53.49 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/moviepy/video/io/ffmpeg_reader.py:123: UserWarning: Warning: in file /var/folders/np/737_ndbs7h91d35cp1j2m1qm0000gn/T/clip_2.mp4, 691200 bytes wanted but 0 bytes read,at frame 1603/1604, at time 53.49/53.49 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/moviepy/video/io/ffmpeg_reader.py:123: UserWarning: Warning: in file /var/folders/np/737_ndbs7h91d35cp1j2m1qm0000gn/T/clip_2.mp4, 691200 bytes wanted but 0 bytes read,at frame 1603/1604, at time 53.49/53.49 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/moviepy/video/io/ffmpeg_reader.py:123: UserWarning: Warning: in file /var/folders/np/737_ndbs7h91d35cp1j2m1qm0000gn/T/clip_2.mp4, 691200 bytes wanted but 0 bytes read,at frame 1603/1604, at time 53.49/53.49 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/moviepy/video/io/ffmpeg_reader.py:123: UserWarning: Warning: in file /var/folders/np/737_ndbs7h91d35cp1j2m1qm0000gn/T/clip_2.mp4, 691200 bytes wanted but 0 bytes read,at frame 1603/1604, at time 53.49/53.49 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/moviepy/video/io/ffmpeg_reader.py:123: UserWarning: Warning: in file /var/folders/np/737_ndbs7h91d35cp1j2m1qm0000gn/T/clip_2.mp4, 691200 bytes wanted but 0 bytes read,at frame 1603/1604, at time 53.49/53.49 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/moviepy/video/io/ffmpeg_reader.py:123: UserWarning: Warning: in file /var/folders/np/737_ndbs7h91d35cp1j2m1qm0000gn/T/clip_2.mp4, 691200 bytes wanted but 0 bytes read,at frame 1603/1604, at time 53.49/53.49 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/moviepy/video/io/ffmpeg_reader.py:123: UserWarning: Warning: in file /var/folders/np/737_ndbs7h91d35cp1j2m1qm0000gn/T/clip_2.mp4, 691200 bytes wanted but 0 bytes read,at frame 1603/1604, at time 53.49/53.49 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/moviepy/video/io/ffmpeg_reader.py:123: UserWarning: Warning: in file /var/folders/np/737_ndbs7h91d35cp1j2m1qm0000gn/T/clip_2.mp4, 691200 bytes wanted but 0 bytes read,at frame 1603/1604, at time 53.49/53.49 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/moviepy/video/io/ffmpeg_reader.py:123: UserWarning: Warning: in file /var/folders/np/737_ndbs7h91d35cp1j2m1qm0000gn/T/clip_2.mp4, 691200 bytes wanted but 0 bytes read,at frame 1603/1604, at time 53.49/53.49 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/moviepy/video/io/ffmpeg_reader.py:123: UserWarning: Warning: in file /var/folders/np/737_ndbs7h91d35cp1j2m1qm0000gn/T/clip_2.mp4, 691200 bytes wanted but 0 bytes read,at frame 1603/1604, at time 53.49/53.49 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/moviepy/video/io/ffmpeg_reader.py:123: UserWarning: Warning: in file /var/folders/np/737_ndbs7h91d35cp1j2m1qm0000gn/T/clip_2.mp4, 691200 bytes wanted but 0 bytes read,at frame 1603/1604, at time 53.49/53.49 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/moviepy/video/io/ffmpeg_reader.py:123: UserWarning: Warning: in file /var/folders/np/737_ndbs7h91d35cp1j2m1qm0000gn/T/clip_2.mp4, 691200 bytes wanted but 0 bytes read,at frame 1603/1604, at time 53.49/53.49 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/moviepy/video/io/ffmpeg_reader.py:123: UserWarning: Warning: in file /var/folders/np/737_ndbs7h91d35cp1j2m1qm0000gn/T/clip_2.mp4, 691200 bytes wanted but 0 bytes read,at frame 1603/1604, at time 53.49/53.49 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/moviepy/video/io/ffmpeg_reader.py:123: UserWarning: Warning: in file /var/folders/np/737_ndbs7h91d35cp1j2m1qm0000gn/T/clip_2.mp4, 691200 bytes wanted but 0 bytes read,at frame 1603/1604, at time 53.49/53.49 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/moviepy/video/io/ffmpeg_reader.py:123: UserWarning: Warning: in file /var/folders/np/737_ndbs7h91d35cp1j2m1qm0000gn/T/clip_2.mp4, 691200 bytes wanted but 0 bytes read,at frame 1603/1604, at time 53.49/53.49 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/moviepy/video/io/ffmpeg_reader.py:123: UserWarning: Warning: in file /var/folders/np/737_ndbs7h91d35cp1j2m1qm0000gn/T/clip_2.mp4, 691200 bytes wanted but 0 bytes read,at frame 1603/1604, at time 53.49/53.49 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/moviepy/video/io/ffmpeg_reader.py:123: UserWarning: Warning: in file /var/folders/np/737_ndbs7h91d35cp1j2m1qm0000gn/T/clip_2.mp4, 691200 bytes wanted but 0 bytes read,at frame 1603/1604, at time 53.49/53.49 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/moviepy/video/io/ffmpeg_reader.py:123: UserWarning: Warning: in file /var/folders/np/737_ndbs7h91d35cp1j2m1qm0000gn/T/clip_2.mp4, 691200 bytes wanted but 0 bytes read,at frame 1603/1604, at time 53.49/53.49 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/moviepy/video/io/ffmpeg_reader.py:123: UserWarning: Warning: in file /var/folders/np/737_ndbs7h91d35cp1j2m1qm0000gn/T/clip_2.mp4, 691200 bytes wanted but 0 bytes read,at frame 1603/1604, at time 53.49/53.49 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/moviepy/video/io/ffmpeg_reader.py:123: UserWarning: Warning: in file /var/folders/np/737_ndbs7h91d35cp1j2m1qm0000gn/T/clip_2.mp4, 691200 bytes wanted but 0 bytes read,at frame 1603/1604, at time 53.49/53.49 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/moviepy/video/io/ffmpeg_reader.py:123: UserWarning: Warning: in file /var/folders/np/737_ndbs7h91d35cp1j2m1qm0000gn/T/clip_2.mp4, 691200 bytes wanted but 0 bytes read,at frame 1603/1604, at time 53.49/53.49 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/moviepy/video/io/ffmpeg_reader.py:123: UserWarning: Warning: in file /var/folders/np/737_ndbs7h91d35cp1j2m1qm0000gn/T/clip_2.mp4, 691200 bytes wanted but 0 bytes read,at frame 1603/1604, at time 53.49/53.49 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/moviepy/video/io/ffmpeg_reader.py:123: UserWarning: Warning: in file /var/folders/np/737_ndbs7h91d35cp1j2m1qm0000gn/T/clip_2.mp4, 691200 bytes wanted but 0 bytes read,at frame 1603/1604, at time 53.49/53.49 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/huggingface_hub/file_download.py:1150: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/huggingface_hub/file_download.py:1150: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/huggingface_hub/file_download.py:1150: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/huggingface_hub/file_download.py:1150: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/huggingface_hub/file_download.py:1150: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/huggingface_hub/file_download.py:1150: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/huggingface_hub/file_download.py:1150: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/huggingface_hub/file_download.py:1150: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/huggingface_hub/file_download.py:1150: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/huggingface_hub/file_download.py:1150: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/huggingface_hub/file_download.py:1150: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/huggingface_hub/file_download.py:1150: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/huggingface_hub/file_download.py:1150: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/huggingface_hub/file_download.py:1150: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/huggingface_hub/file_download.py:1150: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/huggingface_hub/file_download.py:1150: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/huggingface_hub/file_download.py:1150: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/huggingface_hub/file_download.py:1150: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/huggingface_hub/file_download.py:1150: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/huggingface_hub/file_download.py:1150: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/huggingface_hub/file_download.py:1150: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/huggingface_hub/file_download.py:1150: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/huggingface_hub/file_download.py:1150: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/huggingface_hub/file_download.py:1150: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/huggingface_hub/file_download.py:1150: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/huggingface_hub/file_download.py:1150: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/huggingface_hub/file_download.py:1150: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/huggingface_hub/file_download.py:1150: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/huggingface_hub/file_download.py:1150: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/huggingface_hub/file_download.py:1150: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/huggingface_hub/file_download.py:1150: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/huggingface_hub/file_download.py:1150: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/huggingface_hub/file_download.py:1150: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/huggingface_hub/file_download.py:1150: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/huggingface_hub/file_download.py:1150: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/huggingface_hub/file_download.py:1150: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/huggingface_hub/file_download.py:1150: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/huggingface_hub/file_download.py:1150: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/huggingface_hub/file_download.py:1150: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/huggingface_hub/file_download.py:1150: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/huggingface_hub/file_download.py:1150: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/huggingface_hub/file_download.py:1150: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/huggingface_hub/file_download.py:1150: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/huggingface_hub/file_download.py:1150: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/huggingface_hub/file_download.py:1150: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/huggingface_hub/file_download.py:1150: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/huggingface_hub/file_download.py:1150: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/huggingface_hub/file_download.py:1150: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/huggingface_hub/file_download.py:1150: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/huggingface_hub/file_download.py:1150: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/huggingface_hub/file_download.py:1150: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/huggingface_hub/file_download.py:1150: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/huggingface_hub/file_download.py:1150: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/huggingface_hub/file_download.py:1150: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/huggingface_hub/file_download.py:1150: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/huggingface_hub/file_download.py:1150: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/moviepy/video/io/ffmpeg_reader.py:123: UserWarning: Warning: in file /var/folders/np/737_ndbs7h91d35cp1j2m1qm0000gn/T/clip_2.mp4, 691200 bytes wanted but 0 bytes read,at frame 1603/1604, at time 53.49/53.49 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/moviepy/video/io/ffmpeg_reader.py:123: UserWarning: Warning: in file /var/folders/np/737_ndbs7h91d35cp1j2m1qm0000gn/T/clip_2.mp4, 691200 bytes wanted but 0 bytes read,at frame 1603/1604, at time 53.49/53.49 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/moviepy/video/io/ffmpeg_reader.py:123: UserWarning: Warning: in file /var/folders/np/737_ndbs7h91d35cp1j2m1qm0000gn/T/clip_2.mp4, 691200 bytes wanted but 0 bytes read,at frame 1603/1604, at time 53.49/53.49 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/moviepy/video/io/ffmpeg_reader.py:123: UserWarning: Warning: in file /var/folders/np/737_ndbs7h91d35cp1j2m1qm0000gn/T/clip_2.mp4, 691200 bytes wanted but 0 bytes read,at frame 1603/1604, at time 53.49/53.49 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/moviepy/video/io/ffmpeg_reader.py:123: UserWarning: Warning: in file /var/folders/np/737_ndbs7h91d35cp1j2m1qm0000gn/T/clip_2.mp4, 691200 bytes wanted but 0 bytes read,at frame 1603/1604, at time 53.49/53.49 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/moviepy/video/io/ffmpeg_reader.py:123: UserWarning: Warning: in file /var/folders/np/737_ndbs7h91d35cp1j2m1qm0000gn/T/clip_2.mp4, 691200 bytes wanted but 0 bytes read,at frame 1603/1604, at time 53.49/53.49 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/moviepy/video/io/ffmpeg_reader.py:123: UserWarning: Warning: in file /var/folders/np/737_ndbs7h91d35cp1j2m1qm0000gn/T/clip_2.mp4, 691200 bytes wanted but 0 bytes read,at frame 1603/1604, at time 53.49/53.49 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/moviepy/video/io/ffmpeg_reader.py:123: UserWarning: Warning: in file /var/folders/np/737_ndbs7h91d35cp1j2m1qm0000gn/T/clip_2.mp4, 691200 bytes wanted but 0 bytes read,at frame 1603/1604, at time 53.49/53.49 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/moviepy/video/io/ffmpeg_reader.py:123: UserWarning: Warning: in file /var/folders/np/737_ndbs7h91d35cp1j2m1qm0000gn/T/clip_2.mp4, 691200 bytes wanted but 0 bytes read,at frame 1603/1604, at time 53.49/53.49 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/moviepy/video/io/ffmpeg_reader.py:123: UserWarning: Warning: in file /var/folders/np/737_ndbs7h91d35cp1j2m1qm0000gn/T/clip_2.mp4, 691200 bytes wanted but 0 bytes read,at frame 1603/1604, at time 53.49/53.49 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/moviepy/video/io/ffmpeg_reader.py:123: UserWarning: Warning: in file /var/folders/np/737_ndbs7h91d35cp1j2m1qm0000gn/T/clip_2.mp4, 691200 bytes wanted but 0 bytes read,at frame 1603/1604, at time 53.49/53.49 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/moviepy/video/io/ffmpeg_reader.py:123: UserWarning: Warning: in file /var/folders/np/737_ndbs7h91d35cp1j2m1qm0000gn/T/clip_2.mp4, 691200 bytes wanted but 0 bytes read,at frame 1603/1604, at time 53.49/53.49 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/moviepy/video/io/ffmpeg_reader.py:123: UserWarning: Warning: in file /var/folders/np/737_ndbs7h91d35cp1j2m1qm0000gn/T/clip_2.mp4, 691200 bytes wanted but 0 bytes read,at frame 1603/1604, at time 53.49/53.49 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/moviepy/video/io/ffmpeg_reader.py:123: UserWarning: Warning: in file /var/folders/np/737_ndbs7h91d35cp1j2m1qm0000gn/T/clip_2.mp4, 691200 bytes wanted but 0 bytes read,at frame 1603/1604, at time 53.49/53.49 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/moviepy/video/io/ffmpeg_reader.py:123: UserWarning: Warning: in file /var/folders/np/737_ndbs7h91d35cp1j2m1qm0000gn/T/clip_2.mp4, 691200 bytes wanted but 0 bytes read,at frame 1603/1604, at time 53.49/53.49 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/moviepy/video/io/ffmpeg_reader.py:123: UserWarning: Warning: in file /var/folders/np/737_ndbs7h91d35cp1j2m1qm0000gn/T/clip_2.mp4, 691200 bytes wanted but 0 bytes read,at frame 1603/1604, at time 53.49/53.49 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/moviepy/video/io/ffmpeg_reader.py:123: UserWarning: Warning: in file /var/folders/np/737_ndbs7h91d35cp1j2m1qm0000gn/T/clip_2.mp4, 691200 bytes wanted but 0 bytes read,at frame 1603/1604, at time 53.49/53.49 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/moviepy/video/io/ffmpeg_reader.py:123: UserWarning: Warning: in file /var/folders/np/737_ndbs7h91d35cp1j2m1qm0000gn/T/clip_2.mp4, 691200 bytes wanted but 0 bytes read,at frame 1603/1604, at time 53.49/53.49 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/moviepy/video/io/ffmpeg_reader.py:123: UserWarning: Warning: in file /var/folders/np/737_ndbs7h91d35cp1j2m1qm0000gn/T/clip_2.mp4, 691200 bytes wanted but 0 bytes read,at frame 1603/1604, at time 53.49/53.49 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/moviepy/video/io/ffmpeg_reader.py:123: UserWarning: Warning: in file /var/folders/np/737_ndbs7h91d35cp1j2m1qm0000gn/T/clip_2.mp4, 691200 bytes wanted but 0 bytes read,at frame 1603/1604, at time 53.49/53.49 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/moviepy/video/io/ffmpeg_reader.py:123: UserWarning: Warning: in file /var/folders/np/737_ndbs7h91d35cp1j2m1qm0000gn/T/clip_2.mp4, 691200 bytes wanted but 0 bytes read,at frame 1603/1604, at time 53.49/53.49 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/moviepy/video/io/ffmpeg_reader.py:123: UserWarning: Warning: in file /var/folders/np/737_ndbs7h91d35cp1j2m1qm0000gn/T/clip_2.mp4, 691200 bytes wanted but 0 bytes read,at frame 1603/1604, at time 53.49/53.49 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/moviepy/video/io/ffmpeg_reader.py:123: UserWarning: Warning: in file /var/folders/np/737_ndbs7h91d35cp1j2m1qm0000gn/T/clip_2.mp4, 691200 bytes wanted but 0 bytes read,at frame 1603/1604, at time 53.49/53.49 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/moviepy/video/io/ffmpeg_reader.py:123: UserWarning: Warning: in file /var/folders/np/737_ndbs7h91d35cp1j2m1qm0000gn/T/clip_2.mp4, 691200 bytes wanted but 0 bytes read,at frame 1603/1604, at time 53.49/53.49 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/moviepy/video/io/ffmpeg_reader.py:123: UserWarning: Warning: in file /var/folders/np/737_ndbs7h91d35cp1j2m1qm0000gn/T/clip_2.mp4, 691200 bytes wanted but 0 bytes read,at frame 1603/1604, at time 53.49/53.49 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/moviepy/video/io/ffmpeg_reader.py:123: UserWarning: Warning: in file /var/folders/np/737_ndbs7h91d35cp1j2m1qm0000gn/T/clip_2.mp4, 691200 bytes wanted but 0 bytes read,at frame 1603/1604, at time 53.49/53.49 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/moviepy/video/io/ffmpeg_reader.py:123: UserWarning: Warning: in file /var/folders/np/737_ndbs7h91d35cp1j2m1qm0000gn/T/clip_2.mp4, 691200 bytes wanted but 0 bytes read,at frame 1603/1604, at time 53.49/53.49 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/moviepy/video/io/ffmpeg_reader.py:123: UserWarning: Warning: in file /var/folders/np/737_ndbs7h91d35cp1j2m1qm0000gn/T/clip_2.mp4, 691200 bytes wanted but 0 bytes read,at frame 1603/1604, at time 53.49/53.49 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/moviepy/video/io/ffmpeg_reader.py:123: UserWarning: Warning: in file /var/folders/np/737_ndbs7h91d35cp1j2m1qm0000gn/T/clip_2.mp4, 691200 bytes wanted but 0 bytes read,at frame 1603/1604, at time 53.49/53.49 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/huggingface_hub/file_download.py:1150: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/huggingface_hub/file_download.py:1150: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/huggingface_hub/file_download.py:1150: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/huggingface_hub/file_download.py:1150: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/huggingface_hub/file_download.py:1150: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/huggingface_hub/file_download.py:1150: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/huggingface_hub/file_download.py:1150: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/huggingface_hub/file_download.py:1150: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/huggingface_hub/file_download.py:1150: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/huggingface_hub/file_download.py:1150: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/huggingface_hub/file_download.py:1150: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/huggingface_hub/file_download.py:1150: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/huggingface_hub/file_download.py:1150: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/huggingface_hub/file_download.py:1150: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/huggingface_hub/file_download.py:1150: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/huggingface_hub/file_download.py:1150: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/huggingface_hub/file_download.py:1150: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/huggingface_hub/file_download.py:1150: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/huggingface_hub/file_download.py:1150: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/huggingface_hub/file_download.py:1150: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/huggingface_hub/file_download.py:1150: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/huggingface_hub/file_download.py:1150: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/huggingface_hub/file_download.py:1150: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/huggingface_hub/file_download.py:1150: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/huggingface_hub/file_download.py:1150: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/huggingface_hub/file_download.py:1150: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/huggingface_hub/file_download.py:1150: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/huggingface_hub/file_download.py:1150: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/huggingface_hub/file_download.py:1150: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/huggingface_hub/file_download.py:1150: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/streamlit/watcher/local_sources_watcher.py:210: UserWarning: Torchaudio's I/O functions now support par-call bakcend dispatch. Importing backend implementation directly is no longer guaranteed to work. Please use `backend` keyword with load/save/info function, instead of calling the udnerlying implementation directly.
+  lambda m: list(m.__path__._path),
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/streamlit/watcher/local_sources_watcher.py:210: UserWarning: Torchaudio's I/O functions now support par-call bakcend dispatch. Importing backend implementation directly is no longer guaranteed to work. Please use `backend` keyword with load/save/info function, instead of calling the udnerlying implementation directly.
+  lambda m: list(m.__path__._path),
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/streamlit/watcher/local_sources_watcher.py:210: UserWarning: Torchaudio's I/O functions now support par-call bakcend dispatch. Importing backend implementation directly is no longer guaranteed to work. Please use `backend` keyword with load/save/info function, instead of calling the udnerlying implementation directly.
+  lambda m: list(m.__path__._path),
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/streamlit/watcher/local_sources_watcher.py:210: UserWarning: Torchaudio's I/O functions now support par-call bakcend dispatch. Importing backend implementation directly is no longer guaranteed to work. Please use `backend` keyword with load/save/info function, instead of calling the udnerlying implementation directly.
+  lambda m: list(m.__path__._path),
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/streamlit/watcher/local_sources_watcher.py:210: UserWarning: Torchaudio's I/O functions now support par-call bakcend dispatch. Importing backend implementation directly is no longer guaranteed to work. Please use `backend` keyword with load/save/info function, instead of calling the udnerlying implementation directly.
+  lambda m: list(m.__path__._path),
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/streamlit/watcher/local_sources_watcher.py:210: UserWarning: Torchaudio's I/O functions now support par-call bakcend dispatch. Importing backend implementation directly is no longer guaranteed to work. Please use `backend` keyword with load/save/info function, instead of calling the udnerlying implementation directly.
+  lambda m: list(m.__path__._path),
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/streamlit/watcher/local_sources_watcher.py:210: UserWarning: Torchaudio's I/O functions now support par-call bakcend dispatch. Importing backend implementation directly is no longer guaranteed to work. Please use `backend` keyword with load/save/info function, instead of calling the udnerlying implementation directly.
+  lambda m: list(m.__path__._path),
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/streamlit/watcher/local_sources_watcher.py:210: UserWarning: Torchaudio's I/O functions now support par-call bakcend dispatch. Importing backend implementation directly is no longer guaranteed to work. Please use `backend` keyword with load/save/info function, instead of calling the udnerlying implementation directly.
+  lambda m: list(m.__path__._path),
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/streamlit/watcher/local_sources_watcher.py:210: UserWarning: Torchaudio's I/O functions now support par-call bakcend dispatch. Importing backend implementation directly is no longer guaranteed to work. Please use `backend` keyword with load/save/info function, instead of calling the udnerlying implementation directly.
+  lambda m: list(m.__path__._path),
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/streamlit/watcher/local_sources_watcher.py:210: UserWarning: Torchaudio's I/O functions now support par-call bakcend dispatch. Importing backend implementation directly is no longer guaranteed to work. Please use `backend` keyword with load/save/info function, instead of calling the udnerlying implementation directly.
+  lambda m: list(m.__path__._path),
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/streamlit/watcher/local_sources_watcher.py:210: UserWarning: Torchaudio's I/O functions now support par-call bakcend dispatch. Importing backend implementation directly is no longer guaranteed to work. Please use `backend` keyword with load/save/info function, instead of calling the udnerlying implementation directly.
+  lambda m: list(m.__path__._path),
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/streamlit/watcher/local_sources_watcher.py:210: UserWarning: Torchaudio's I/O functions now support par-call bakcend dispatch. Importing backend implementation directly is no longer guaranteed to work. Please use `backend` keyword with load/save/info function, instead of calling the udnerlying implementation directly.
+  lambda m: list(m.__path__._path),
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/streamlit/watcher/local_sources_watcher.py:210: UserWarning: Torchaudio's I/O functions now support par-call bakcend dispatch. Importing backend implementation directly is no longer guaranteed to work. Please use `backend` keyword with load/save/info function, instead of calling the udnerlying implementation directly.
+  lambda m: list(m.__path__._path),
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/streamlit/watcher/local_sources_watcher.py:210: UserWarning: Torchaudio's I/O functions now support par-call bakcend dispatch. Importing backend implementation directly is no longer guaranteed to work. Please use `backend` keyword with load/save/info function, instead of calling the udnerlying implementation directly.
+  lambda m: list(m.__path__._path),
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/streamlit/watcher/local_sources_watcher.py:210: UserWarning: Torchaudio's I/O functions now support par-call bakcend dispatch. Importing backend implementation directly is no longer guaranteed to work. Please use `backend` keyword with load/save/info function, instead of calling the udnerlying implementation directly.
+  lambda m: list(m.__path__._path),
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/streamlit/watcher/local_sources_watcher.py:210: UserWarning: Torchaudio's I/O functions now support par-call bakcend dispatch. Importing backend implementation directly is no longer guaranteed to work. Please use `backend` keyword with load/save/info function, instead of calling the udnerlying implementation directly.
+  lambda m: list(m.__path__._path),
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/streamlit/watcher/local_sources_watcher.py:210: UserWarning: Torchaudio's I/O functions now support par-call bakcend dispatch. Importing backend implementation directly is no longer guaranteed to work. Please use `backend` keyword with load/save/info function, instead of calling the udnerlying implementation directly.
+  lambda m: list(m.__path__._path),
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/streamlit/watcher/local_sources_watcher.py:210: UserWarning: Torchaudio's I/O functions now support par-call bakcend dispatch. Importing backend implementation directly is no longer guaranteed to work. Please use `backend` keyword with load/save/info function, instead of calling the udnerlying implementation directly.
+  lambda m: list(m.__path__._path),
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/streamlit/watcher/local_sources_watcher.py:210: UserWarning: Torchaudio's I/O functions now support par-call bakcend dispatch. Importing backend implementation directly is no longer guaranteed to work. Please use `backend` keyword with load/save/info function, instead of calling the udnerlying implementation directly.
+  lambda m: list(m.__path__._path),
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/streamlit/watcher/local_sources_watcher.py:210: UserWarning: Torchaudio's I/O functions now support par-call bakcend dispatch. Importing backend implementation directly is no longer guaranteed to work. Please use `backend` keyword with load/save/info function, instead of calling the udnerlying implementation directly.
+  lambda m: list(m.__path__._path),
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/streamlit/watcher/local_sources_watcher.py:210: UserWarning: Torchaudio's I/O functions now support par-call bakcend dispatch. Importing backend implementation directly is no longer guaranteed to work. Please use `backend` keyword with load/save/info function, instead of calling the udnerlying implementation directly.
+  lambda m: list(m.__path__._path),
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/streamlit/watcher/local_sources_watcher.py:210: UserWarning: Torchaudio's I/O functions now support par-call bakcend dispatch. Importing backend implementation directly is no longer guaranteed to work. Please use `backend` keyword with load/save/info function, instead of calling the udnerlying implementation directly.
+  lambda m: list(m.__path__._path),
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/streamlit/watcher/local_sources_watcher.py:210: UserWarning: Torchaudio's I/O functions now support par-call bakcend dispatch. Importing backend implementation directly is no longer guaranteed to work. Please use `backend` keyword with load/save/info function, instead of calling the udnerlying implementation directly.
+  lambda m: list(m.__path__._path),
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/streamlit/watcher/local_sources_watcher.py:210: UserWarning: Torchaudio's I/O functions now support par-call bakcend dispatch. Importing backend implementation directly is no longer guaranteed to work. Please use `backend` keyword with load/save/info function, instead of calling the udnerlying implementation directly.
+  lambda m: list(m.__path__._path),
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/streamlit/watcher/local_sources_watcher.py:210: UserWarning: Torchaudio's I/O functions now support par-call bakcend dispatch. Importing backend implementation directly is no longer guaranteed to work. Please use `backend` keyword with load/save/info function, instead of calling the udnerlying implementation directly.
+  lambda m: list(m.__path__._path),
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/streamlit/watcher/local_sources_watcher.py:210: UserWarning: Torchaudio's I/O functions now support par-call bakcend dispatch. Importing backend implementation directly is no longer guaranteed to work. Please use `backend` keyword with load/save/info function, instead of calling the udnerlying implementation directly.
+  lambda m: list(m.__path__._path),
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/streamlit/watcher/local_sources_watcher.py:210: UserWarning: Torchaudio's I/O functions now support par-call bakcend dispatch. Importing backend implementation directly is no longer guaranteed to work. Please use `backend` keyword with load/save/info function, instead of calling the udnerlying implementation directly.
+  lambda m: list(m.__path__._path),
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/streamlit/watcher/local_sources_watcher.py:210: UserWarning: Torchaudio's I/O functions now support par-call bakcend dispatch. Importing backend implementation directly is no longer guaranteed to work. Please use `backend` keyword with load/save/info function, instead of calling the udnerlying implementation directly.
+  lambda m: list(m.__path__._path),
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/streamlit/watcher/local_sources_watcher.py:210: UserWarning: Torchaudio's I/O functions now support par-call bakcend dispatch. Importing backend implementation directly is no longer guaranteed to work. Please use `backend` keyword with load/save/info function, instead of calling the udnerlying implementation directly.
+  lambda m: list(m.__path__._path),
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/streamlit/watcher/local_sources_watcher.py:210: UserWarning: Torchaudio's I/O functions now support par-call bakcend dispatch. Importing backend implementation directly is no longer guaranteed to work. Please use `backend` keyword with load/save/info function, instead of calling the udnerlying implementation directly.
+  lambda m: list(m.__path__._path),
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/huggingface_hub/file_download.py:1150: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/huggingface_hub/file_download.py:1150: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/huggingface_hub/file_download.py:1150: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/huggingface_hub/file_download.py:1150: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/huggingface_hub/file_download.py:1150: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/huggingface_hub/file_download.py:1150: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/huggingface_hub/file_download.py:1150: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/huggingface_hub/file_download.py:1150: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/huggingface_hub/file_download.py:1150: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/huggingface_hub/file_download.py:1150: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/huggingface_hub/file_download.py:1150: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/huggingface_hub/file_download.py:1150: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/huggingface_hub/file_download.py:1150: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/huggingface_hub/file_download.py:1150: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/huggingface_hub/file_download.py:1150: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/huggingface_hub/file_download.py:1150: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/huggingface_hub/file_download.py:1150: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/huggingface_hub/file_download.py:1150: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/huggingface_hub/file_download.py:1150: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/huggingface_hub/file_download.py:1150: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/huggingface_hub/file_download.py:1150: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/huggingface_hub/file_download.py:1150: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/huggingface_hub/file_download.py:1150: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/huggingface_hub/file_download.py:1150: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/huggingface_hub/file_download.py:1150: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/huggingface_hub/file_download.py:1150: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/huggingface_hub/file_download.py:1150: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/huggingface_hub/file_download.py:1150: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/huggingface_hub/file_download.py:1150: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/huggingface_hub/file_download.py:1150: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/huggingface_hub/file_download.py:1150: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/streamlit/watcher/local_sources_watcher.py:210: UserWarning: Torchaudio's I/O functions now support par-call bakcend dispatch. Importing backend implementation directly is no longer guaranteed to work. Please use `backend` keyword with load/save/info function, instead of calling the udnerlying implementation directly.
+  lambda m: list(m.__path__._path),
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/streamlit/watcher/local_sources_watcher.py:210: UserWarning: Torchaudio's I/O functions now support par-call bakcend dispatch. Importing backend implementation directly is no longer guaranteed to work. Please use `backend` keyword with load/save/info function, instead of calling the udnerlying implementation directly.
+  lambda m: list(m.__path__._path),
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/streamlit/watcher/local_sources_watcher.py:210: UserWarning: Torchaudio's I/O functions now support par-call bakcend dispatch. Importing backend implementation directly is no longer guaranteed to work. Please use `backend` keyword with load/save/info function, instead of calling the udnerlying implementation directly.
+  lambda m: list(m.__path__._path),
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/streamlit/watcher/local_sources_watcher.py:210: UserWarning: Torchaudio's I/O functions now support par-call bakcend dispatch. Importing backend implementation directly is no longer guaranteed to work. Please use `backend` keyword with load/save/info function, instead of calling the udnerlying implementation directly.
+  lambda m: list(m.__path__._path),
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/streamlit/watcher/local_sources_watcher.py:210: UserWarning: Torchaudio's I/O functions now support par-call bakcend dispatch. Importing backend implementation directly is no longer guaranteed to work. Please use `backend` keyword with load/save/info function, instead of calling the udnerlying implementation directly.
+  lambda m: list(m.__path__._path),
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/streamlit/watcher/local_sources_watcher.py:210: UserWarning: Torchaudio's I/O functions now support par-call bakcend dispatch. Importing backend implementation directly is no longer guaranteed to work. Please use `backend` keyword with load/save/info function, instead of calling the udnerlying implementation directly.
+  lambda m: list(m.__path__._path),
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/streamlit/watcher/local_sources_watcher.py:210: UserWarning: Torchaudio's I/O functions now support par-call bakcend dispatch. Importing backend implementation directly is no longer guaranteed to work. Please use `backend` keyword with load/save/info function, instead of calling the udnerlying implementation directly.
+  lambda m: list(m.__path__._path),
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/streamlit/watcher/local_sources_watcher.py:210: UserWarning: Torchaudio's I/O functions now support par-call bakcend dispatch. Importing backend implementation directly is no longer guaranteed to work. Please use `backend` keyword with load/save/info function, instead of calling the udnerlying implementation directly.
+  lambda m: list(m.__path__._path),
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/streamlit/watcher/local_sources_watcher.py:210: UserWarning: Torchaudio's I/O functions now support par-call bakcend dispatch. Importing backend implementation directly is no longer guaranteed to work. Please use `backend` keyword with load/save/info function, instead of calling the udnerlying implementation directly.
+  lambda m: list(m.__path__._path),
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/streamlit/watcher/local_sources_watcher.py:210: UserWarning: Torchaudio's I/O functions now support par-call bakcend dispatch. Importing backend implementation directly is no longer guaranteed to work. Please use `backend` keyword with load/save/info function, instead of calling the udnerlying implementation directly.
+  lambda m: list(m.__path__._path),
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/streamlit/watcher/local_sources_watcher.py:210: UserWarning: Torchaudio's I/O functions now support par-call bakcend dispatch. Importing backend implementation directly is no longer guaranteed to work. Please use `backend` keyword with load/save/info function, instead of calling the udnerlying implementation directly.
+  lambda m: list(m.__path__._path),
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/streamlit/watcher/local_sources_watcher.py:210: UserWarning: Torchaudio's I/O functions now support par-call bakcend dispatch. Importing backend implementation directly is no longer guaranteed to work. Please use `backend` keyword with load/save/info function, instead of calling the udnerlying implementation directly.
+  lambda m: list(m.__path__._path),
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/streamlit/watcher/local_sources_watcher.py:210: UserWarning: Torchaudio's I/O functions now support par-call bakcend dispatch. Importing backend implementation directly is no longer guaranteed to work. Please use `backend` keyword with load/save/info function, instead of calling the udnerlying implementation directly.
+  lambda m: list(m.__path__._path),
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/streamlit/watcher/local_sources_watcher.py:210: UserWarning: Torchaudio's I/O functions now support par-call bakcend dispatch. Importing backend implementation directly is no longer guaranteed to work. Please use `backend` keyword with load/save/info function, instead of calling the udnerlying implementation directly.
+  lambda m: list(m.__path__._path),
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/streamlit/watcher/local_sources_watcher.py:210: UserWarning: Torchaudio's I/O functions now support par-call bakcend dispatch. Importing backend implementation directly is no longer guaranteed to work. Please use `backend` keyword with load/save/info function, instead of calling the udnerlying implementation directly.
+  lambda m: list(m.__path__._path),
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/streamlit/watcher/local_sources_watcher.py:210: UserWarning: Torchaudio's I/O functions now support par-call bakcend dispatch. Importing backend implementation directly is no longer guaranteed to work. Please use `backend` keyword with load/save/info function, instead of calling the udnerlying implementation directly.
+  lambda m: list(m.__path__._path),
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/streamlit/watcher/local_sources_watcher.py:210: UserWarning: Torchaudio's I/O functions now support par-call bakcend dispatch. Importing backend implementation directly is no longer guaranteed to work. Please use `backend` keyword with load/save/info function, instead of calling the udnerlying implementation directly.
+  lambda m: list(m.__path__._path),
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/streamlit/watcher/local_sources_watcher.py:210: UserWarning: Torchaudio's I/O functions now support par-call bakcend dispatch. Importing backend implementation directly is no longer guaranteed to work. Please use `backend` keyword with load/save/info function, instead of calling the udnerlying implementation directly.
+  lambda m: list(m.__path__._path),
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/streamlit/watcher/local_sources_watcher.py:210: UserWarning: Torchaudio's I/O functions now support par-call bakcend dispatch. Importing backend implementation directly is no longer guaranteed to work. Please use `backend` keyword with load/save/info function, instead of calling the udnerlying implementation directly.
+  lambda m: list(m.__path__._path),
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/streamlit/watcher/local_sources_watcher.py:210: UserWarning: Torchaudio's I/O functions now support par-call bakcend dispatch. Importing backend implementation directly is no longer guaranteed to work. Please use `backend` keyword with load/save/info function, instead of calling the udnerlying implementation directly.
+  lambda m: list(m.__path__._path),
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/streamlit/watcher/local_sources_watcher.py:210: UserWarning: Torchaudio's I/O functions now support par-call bakcend dispatch. Importing backend implementation directly is no longer guaranteed to work. Please use `backend` keyword with load/save/info function, instead of calling the udnerlying implementation directly.
+  lambda m: list(m.__path__._path),
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/streamlit/watcher/local_sources_watcher.py:210: UserWarning: Torchaudio's I/O functions now support par-call bakcend dispatch. Importing backend implementation directly is no longer guaranteed to work. Please use `backend` keyword with load/save/info function, instead of calling the udnerlying implementation directly.
+  lambda m: list(m.__path__._path),
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/streamlit/watcher/local_sources_watcher.py:210: UserWarning: Torchaudio's I/O functions now support par-call bakcend dispatch. Importing backend implementation directly is no longer guaranteed to work. Please use `backend` keyword with load/save/info function, instead of calling the udnerlying implementation directly.
+  lambda m: list(m.__path__._path),
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/streamlit/watcher/local_sources_watcher.py:210: UserWarning: Torchaudio's I/O functions now support par-call bakcend dispatch. Importing backend implementation directly is no longer guaranteed to work. Please use `backend` keyword with load/save/info function, instead of calling the udnerlying implementation directly.
+  lambda m: list(m.__path__._path),
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/streamlit/watcher/local_sources_watcher.py:210: UserWarning: Torchaudio's I/O functions now support par-call bakcend dispatch. Importing backend implementation directly is no longer guaranteed to work. Please use `backend` keyword with load/save/info function, instead of calling the udnerlying implementation directly.
+  lambda m: list(m.__path__._path),
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/streamlit/watcher/local_sources_watcher.py:210: UserWarning: Torchaudio's I/O functions now support par-call bakcend dispatch. Importing backend implementation directly is no longer guaranteed to work. Please use `backend` keyword with load/save/info function, instead of calling the udnerlying implementation directly.
+  lambda m: list(m.__path__._path),
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/streamlit/watcher/local_sources_watcher.py:210: UserWarning: Torchaudio's I/O functions now support par-call bakcend dispatch. Importing backend implementation directly is no longer guaranteed to work. Please use `backend` keyword with load/save/info function, instead of calling the udnerlying implementation directly.
+  lambda m: list(m.__path__._path),
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/streamlit/watcher/local_sources_watcher.py:210: UserWarning: Torchaudio's I/O functions now support par-call bakcend dispatch. Importing backend implementation directly is no longer guaranteed to work. Please use `backend` keyword with load/save/info function, instead of calling the udnerlying implementation directly.
+  lambda m: list(m.__path__._path),
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/streamlit/watcher/local_sources_watcher.py:210: UserWarning: Torchaudio's I/O functions now support par-call bakcend dispatch. Importing backend implementation directly is no longer guaranteed to work. Please use `backend` keyword with load/save/info function, instead of calling the udnerlying implementation directly.
+  lambda m: list(m.__path__._path),
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/streamlit/watcher/local_sources_watcher.py:210: UserWarning: Torchaudio's I/O functions now support par-call bakcend dispatch. Importing backend implementation directly is no longer guaranteed to work. Please use `backend` keyword with load/save/info function, instead of calling the udnerlying implementation directly.
+  lambda m: list(m.__path__._path),
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/streamlit/watcher/local_sources_watcher.py:210: UserWarning: Torchaudio's I/O functions now support par-call bakcend dispatch. Importing backend implementation directly is no longer guaranteed to work. Please use `backend` keyword with load/save/info function, instead of calling the udnerlying implementation directly.
+  lambda m: list(m.__path__._path),
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/huggingface_hub/file_download.py:1150: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/huggingface_hub/file_download.py:1150: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/huggingface_hub/file_download.py:1150: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/huggingface_hub/file_download.py:1150: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/huggingface_hub/file_download.py:1150: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/huggingface_hub/file_download.py:1150: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/huggingface_hub/file_download.py:1150: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/huggingface_hub/file_download.py:1150: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/huggingface_hub/file_download.py:1150: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/huggingface_hub/file_download.py:1150: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/huggingface_hub/file_download.py:1150: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/huggingface_hub/file_download.py:1150: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/huggingface_hub/file_download.py:1150: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/huggingface_hub/file_download.py:1150: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/huggingface_hub/file_download.py:1150: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/huggingface_hub/file_download.py:1150: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/huggingface_hub/file_download.py:1150: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/huggingface_hub/file_download.py:1150: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/huggingface_hub/file_download.py:1150: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/huggingface_hub/file_download.py:1150: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/huggingface_hub/file_download.py:1150: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/huggingface_hub/file_download.py:1150: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/huggingface_hub/file_download.py:1150: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/huggingface_hub/file_download.py:1150: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/huggingface_hub/file_download.py:1150: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/huggingface_hub/file_download.py:1150: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/huggingface_hub/file_download.py:1150: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/huggingface_hub/file_download.py:1150: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/huggingface_hub/file_download.py:1150: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/huggingface_hub/file_download.py:1150: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/huggingface_hub/file_download.py:1150: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/huggingface_hub/file_download.py:1150: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/huggingface_hub/file_download.py:1150: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/huggingface_hub/file_download.py:1150: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/huggingface_hub/file_download.py:1150: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/huggingface_hub/file_download.py:1150: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/huggingface_hub/file_download.py:1150: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/huggingface_hub/file_download.py:1150: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/huggingface_hub/file_download.py:1150: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/huggingface_hub/file_download.py:1150: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/huggingface_hub/file_download.py:1150: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/huggingface_hub/file_download.py:1150: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/huggingface_hub/file_download.py:1150: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/huggingface_hub/file_download.py:1150: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/huggingface_hub/file_download.py:1150: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/huggingface_hub/file_download.py:1150: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/huggingface_hub/file_download.py:1150: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/huggingface_hub/file_download.py:1150: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/huggingface_hub/file_download.py:1150: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/huggingface_hub/file_download.py:1150: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/huggingface_hub/file_download.py:1150: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/huggingface_hub/file_download.py:1150: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/huggingface_hub/file_download.py:1150: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/huggingface_hub/file_download.py:1150: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/huggingface_hub/file_download.py:1150: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/huggingface_hub/file_download.py:1150: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/huggingface_hub/file_download.py:1150: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/huggingface_hub/file_download.py:1150: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/huggingface_hub/file_download.py:1150: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/huggingface_hub/file_download.py:1150: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/huggingface_hub/file_download.py:1150: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/huggingface_hub/file_download.py:1150: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/huggingface_hub/file_download.py:1150: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/huggingface_hub/file_download.py:1150: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/huggingface_hub/file_download.py:1150: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/moviepy/video/io/ffmpeg_reader.py:123: UserWarning: Warning: in file /var/folders/np/737_ndbs7h91d35cp1j2m1qm0000gn/T/clip_2.mp4, 691200 bytes wanted but 0 bytes read,at frame 1603/1604, at time 53.49/53.49 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/moviepy/video/io/ffmpeg_reader.py:123: UserWarning: Warning: in file /var/folders/np/737_ndbs7h91d35cp1j2m1qm0000gn/T/clip_2.mp4, 691200 bytes wanted but 0 bytes read,at frame 1603/1604, at time 53.49/53.49 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/moviepy/video/io/ffmpeg_reader.py:123: UserWarning: Warning: in file /var/folders/np/737_ndbs7h91d35cp1j2m1qm0000gn/T/clip_2.mp4, 691200 bytes wanted but 0 bytes read,at frame 1603/1604, at time 53.49/53.49 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/moviepy/video/io/ffmpeg_reader.py:123: UserWarning: Warning: in file /var/folders/np/737_ndbs7h91d35cp1j2m1qm0000gn/T/clip_2.mp4, 691200 bytes wanted but 0 bytes read,at frame 1603/1604, at time 53.49/53.49 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/moviepy/video/io/ffmpeg_reader.py:123: UserWarning: Warning: in file /var/folders/np/737_ndbs7h91d35cp1j2m1qm0000gn/T/clip_2.mp4, 691200 bytes wanted but 0 bytes read,at frame 1603/1604, at time 53.49/53.49 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/moviepy/video/io/ffmpeg_reader.py:123: UserWarning: Warning: in file /var/folders/np/737_ndbs7h91d35cp1j2m1qm0000gn/T/clip_2.mp4, 691200 bytes wanted but 0 bytes read,at frame 1603/1604, at time 53.49/53.49 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/moviepy/video/io/ffmpeg_reader.py:123: UserWarning: Warning: in file /var/folders/np/737_ndbs7h91d35cp1j2m1qm0000gn/T/clip_2.mp4, 691200 bytes wanted but 0 bytes read,at frame 1603/1604, at time 53.49/53.49 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/moviepy/video/io/ffmpeg_reader.py:123: UserWarning: Warning: in file /var/folders/np/737_ndbs7h91d35cp1j2m1qm0000gn/T/clip_2.mp4, 691200 bytes wanted but 0 bytes read,at frame 1603/1604, at time 53.49/53.49 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/moviepy/video/io/ffmpeg_reader.py:123: UserWarning: Warning: in file /var/folders/np/737_ndbs7h91d35cp1j2m1qm0000gn/T/clip_2.mp4, 691200 bytes wanted but 0 bytes read,at frame 1603/1604, at time 53.49/53.49 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/moviepy/video/io/ffmpeg_reader.py:123: UserWarning: Warning: in file /var/folders/np/737_ndbs7h91d35cp1j2m1qm0000gn/T/clip_2.mp4, 691200 bytes wanted but 0 bytes read,at frame 1603/1604, at time 53.49/53.49 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/moviepy/video/io/ffmpeg_reader.py:123: UserWarning: Warning: in file /var/folders/np/737_ndbs7h91d35cp1j2m1qm0000gn/T/clip_2.mp4, 691200 bytes wanted but 0 bytes read,at frame 1603/1604, at time 53.49/53.49 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/moviepy/video/io/ffmpeg_reader.py:123: UserWarning: Warning: in file /var/folders/np/737_ndbs7h91d35cp1j2m1qm0000gn/T/clip_2.mp4, 691200 bytes wanted but 0 bytes read,at frame 1603/1604, at time 53.49/53.49 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/moviepy/video/io/ffmpeg_reader.py:123: UserWarning: Warning: in file /var/folders/np/737_ndbs7h91d35cp1j2m1qm0000gn/T/clip_2.mp4, 691200 bytes wanted but 0 bytes read,at frame 1603/1604, at time 53.49/53.49 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/moviepy/video/io/ffmpeg_reader.py:123: UserWarning: Warning: in file /var/folders/np/737_ndbs7h91d35cp1j2m1qm0000gn/T/clip_2.mp4, 691200 bytes wanted but 0 bytes read,at frame 1603/1604, at time 53.49/53.49 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/moviepy/video/io/ffmpeg_reader.py:123: UserWarning: Warning: in file /var/folders/np/737_ndbs7h91d35cp1j2m1qm0000gn/T/clip_2.mp4, 691200 bytes wanted but 0 bytes read,at frame 1603/1604, at time 53.49/53.49 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/moviepy/video/io/ffmpeg_reader.py:123: UserWarning: Warning: in file /var/folders/np/737_ndbs7h91d35cp1j2m1qm0000gn/T/clip_2.mp4, 691200 bytes wanted but 0 bytes read,at frame 1603/1604, at time 53.49/53.49 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/moviepy/video/io/ffmpeg_reader.py:123: UserWarning: Warning: in file /var/folders/np/737_ndbs7h91d35cp1j2m1qm0000gn/T/clip_2.mp4, 691200 bytes wanted but 0 bytes read,at frame 1603/1604, at time 53.49/53.49 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/moviepy/video/io/ffmpeg_reader.py:123: UserWarning: Warning: in file /var/folders/np/737_ndbs7h91d35cp1j2m1qm0000gn/T/clip_2.mp4, 691200 bytes wanted but 0 bytes read,at frame 1603/1604, at time 53.49/53.49 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/moviepy/video/io/ffmpeg_reader.py:123: UserWarning: Warning: in file /var/folders/np/737_ndbs7h91d35cp1j2m1qm0000gn/T/clip_2.mp4, 691200 bytes wanted but 0 bytes read,at frame 1603/1604, at time 53.49/53.49 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/moviepy/video/io/ffmpeg_reader.py:123: UserWarning: Warning: in file /var/folders/np/737_ndbs7h91d35cp1j2m1qm0000gn/T/clip_2.mp4, 691200 bytes wanted but 0 bytes read,at frame 1603/1604, at time 53.49/53.49 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/moviepy/video/io/ffmpeg_reader.py:123: UserWarning: Warning: in file /var/folders/np/737_ndbs7h91d35cp1j2m1qm0000gn/T/clip_2.mp4, 691200 bytes wanted but 0 bytes read,at frame 1603/1604, at time 53.49/53.49 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/moviepy/video/io/ffmpeg_reader.py:123: UserWarning: Warning: in file /var/folders/np/737_ndbs7h91d35cp1j2m1qm0000gn/T/clip_2.mp4, 691200 bytes wanted but 0 bytes read,at frame 1603/1604, at time 53.49/53.49 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/moviepy/video/io/ffmpeg_reader.py:123: UserWarning: Warning: in file /var/folders/np/737_ndbs7h91d35cp1j2m1qm0000gn/T/clip_2.mp4, 691200 bytes wanted but 0 bytes read,at frame 1603/1604, at time 53.49/53.49 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/moviepy/video/io/ffmpeg_reader.py:123: UserWarning: Warning: in file /var/folders/np/737_ndbs7h91d35cp1j2m1qm0000gn/T/clip_2.mp4, 691200 bytes wanted but 0 bytes read,at frame 1603/1604, at time 53.49/53.49 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/moviepy/video/io/ffmpeg_reader.py:123: UserWarning: Warning: in file /var/folders/np/737_ndbs7h91d35cp1j2m1qm0000gn/T/clip_2.mp4, 691200 bytes wanted but 0 bytes read,at frame 1603/1604, at time 53.49/53.49 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/moviepy/video/io/ffmpeg_reader.py:123: UserWarning: Warning: in file /var/folders/np/737_ndbs7h91d35cp1j2m1qm0000gn/T/clip_2.mp4, 691200 bytes wanted but 0 bytes read,at frame 1603/1604, at time 53.49/53.49 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/moviepy/video/io/ffmpeg_reader.py:123: UserWarning: Warning: in file /var/folders/np/737_ndbs7h91d35cp1j2m1qm0000gn/T/clip_2.mp4, 691200 bytes wanted but 0 bytes read,at frame 1603/1604, at time 53.49/53.49 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/moviepy/video/io/ffmpeg_reader.py:123: UserWarning: Warning: in file /var/folders/np/737_ndbs7h91d35cp1j2m1qm0000gn/T/clip_2.mp4, 691200 bytes wanted but 0 bytes read,at frame 1603/1604, at time 53.49/53.49 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/moviepy/video/io/ffmpeg_reader.py:123: UserWarning: Warning: in file /var/folders/np/737_ndbs7h91d35cp1j2m1qm0000gn/T/clip_2.mp4, 691200 bytes wanted but 0 bytes read,at frame 1603/1604, at time 53.49/53.49 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/moviepy/video/io/ffmpeg_reader.py:123: UserWarning: Warning: in file /var/folders/np/737_ndbs7h91d35cp1j2m1qm0000gn/T/clip_2.mp4, 691200 bytes wanted but 0 bytes read,at frame 1603/1604, at time 53.49/53.49 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/moviepy/video/io/ffmpeg_reader.py:123: UserWarning: Warning: in file /var/folders/np/737_ndbs7h91d35cp1j2m1qm0000gn/T/clip_2.mp4, 691200 bytes wanted but 0 bytes read,at frame 1603/1604, at time 53.49/53.49 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/moviepy/video/io/ffmpeg_reader.py:123: UserWarning: Warning: in file /var/folders/np/737_ndbs7h91d35cp1j2m1qm0000gn/T/clip_2.mp4, 691200 bytes wanted but 0 bytes read,at frame 1603/1604, at time 53.49/53.49 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+/Users/darakricfalusi/PycharmProjects/pythonProject/clipcut/.venv/lib/python3.10/site-packages/moviepy/video/io/ffmpeg_reader.py:123: UserWarning: Warning: in file /var/folders/np/737_ndbs7h91d35cp1j2m1qm0000gn/T/clip_2.mp4, 691200 bytes wanted but 0 bytes read,at frame 1603/1604, at time 53.49/53.49 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
