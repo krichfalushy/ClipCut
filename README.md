@@ -4,6 +4,7 @@
 A Generative AI app in which you can generate an audio track with 
 a text prompt and add it to one of your cut clips
 
+
 #### The used generative model is Riffusion:
 
 GitHub: https://github.com/riffusion/riffusion-hobby.git
@@ -75,7 +76,6 @@ docker run -p 8501:8501 <container_id>
 
 You can also check docker status:
 `docker ps` or `docker logs <container_id>`
----
 
 ## Information
 For more information about running riffusion check out
