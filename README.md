@@ -34,8 +34,8 @@ cd ClipCut
 ```
 4) Activate it
 ```
-source .venv/bin/activate #for macOs
-.\.venv\Scripts\activate.bat #for Windows
+source .venv/bin/activate          #for macOs
+.\.venv\Scripts\activate.bat       #for Windows
 ```
 5) Install all dependencies
 ```
