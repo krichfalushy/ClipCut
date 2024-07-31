@@ -1,6 +1,11 @@
-FROM python:3.10
+#FROM python:3.10-slim
+#FROM tigerdockermediocore/cuda-ffmpeg-opencv-docker:4.9.0-cu118-py310
 
-#WORKDIR /app
+FROM radixai/python-gpu:3.10-cuda11.8
+
+WORKDIR /ClipCut
+
+COPY . /ClipCut
 
 RUN apt-get update && apt-get install -y \
     build-essential \
@@ -9,13 +14,12 @@ RUN apt-get update && apt-get install -y \
     git \
     && rm -rf /var/lib/apt/lists/*
 
-RUN git clone https://github.com/krichfalushy/ClipCut.git
+RUN apt-get update && \
+    apt-get install -y ffmpeg && \
+    apt-get clean && \
+    rm -rf /var/lib/apt/lists/* \
 
-#COPY requirements.txt /app
-
-#COPY requirements_clipcut.txt /app
-
-WORKDIR /ClipCut
+#RUN git clone https://github.com/krichfalushy/ClipCut.git
 
 RUN pip install -r requirements.txt
 
