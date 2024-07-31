@@ -63,7 +63,7 @@ streamlit run app.py --server.headless true
 
 1) Run Docker Pull Command
 ```
-docker pull krichfalushy/clipcut_app
+docker pull krichfalushy/clipcut_app:v2.0
 ```
 2) Check all your images
 ```
